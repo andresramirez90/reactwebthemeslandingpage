@@ -19,8 +19,7 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-            Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
-            laravel php artisan.
+            FUCK YOU MEN GONORREA y ali lo chupa 2 veces
           </h3>
           <p>
             Mudahkan segala urursan dengan laravel apps sebuah technology modern
